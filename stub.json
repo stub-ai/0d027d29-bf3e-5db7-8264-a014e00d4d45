@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Create a TypeScript event bus. The events will be classes, and the event bus must handle events by their type classes.","md5":"c6365cbd4312327358bec4b1bd91b5ab"}]}
